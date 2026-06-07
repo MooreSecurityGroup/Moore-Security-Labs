@@ -1,0 +1,10 @@
+Sections
+- Update packages
+- Create non-root user
+- Install fail2ban
+- Configure UFW
+- Disable root SSH
+- Disable password authentication
+- Enable automatic updates
+- Verify configuration
+
