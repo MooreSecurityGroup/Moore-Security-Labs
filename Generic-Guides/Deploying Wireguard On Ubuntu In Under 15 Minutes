@@ -1,9 +1,0 @@
-Sections
-- Install WireGuard
-- Generate keys
-- Create server config
-- Configure firewall
-- Enable IP forwarding
-- Create client
-- Generate QR code
-- Verify tunnel
